@@ -11,7 +11,7 @@ This project demonstrates a beautifully animated **Authentication Screen** built
 - Built using Jetpack libraries
 
 ## 🔗 App Link
-![download link](Screenshot/app-debug.apk)
+![download link](https://drive.google.com/file/d/1Fz71jNEgTyi1m1aMc5oiT7g9SKELFMZW/view?usp=drive_link)
 
 ## 📸 Screenshots
 
