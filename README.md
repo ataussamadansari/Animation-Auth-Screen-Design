@@ -10,6 +10,9 @@ This project demonstrates a beautifully animated **Authentication Screen** built
 - Fully responsive design
 - Built using Jetpack libraries
 
+## 🔗 App Link
+![download link](Screenshot/app-debug.apk)
+
 ## 📸 Screenshots
 
 | Login | Animated Transition | Signup |
