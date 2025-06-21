@@ -14,7 +14,7 @@ This project demonstrates a beautifully animated **Authentication Screen** built
 
 | Login | Animated Transition | Signup |
 |-------|---------------------|--------|
-| ![login](Screenshot/Screenshot_20250621_220838.jpg) | ![transition](screenshots/video.gif) | ![signup](Screenshot/Screenshot_20250621_220847.jpg) |
+| ![login](Screenshot/Screenshot_20250621_220838.jpg) | ![transition](Screenshot/video.gif) | ![signup](Screenshot/Screenshot_20250621_220847.jpg) |
 
 > 💡 Add your screenshots in a `screenshots/` folder and link them here
 
