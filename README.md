@@ -195,3 +195,16 @@ This project demonstrates a beautifully animated **Authentication Screen** built
     <color name="secondary">#1B635E</color>
 </resources>
 ```
+
+## 👨‍💻 About Me
+
+I'm Ataussamad Ansari, a passionate Android Developer with experience in building apps using Kotlin, Jetpack Compose, Firebase, and MotionLayout. I love crafting clean UI and exploring animation frameworks in Android. Always learning and building!
+
+## 📫 Contact Me
+
+- 📧 Email: ataussamadansari@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/ataussamadansari](https://www.linkedin.com/in/ataussamadansari)
+- 🧑‍💻 GitHub: [@ataussamadansari](https://github.com/ataussamadansari)
+- 📄 Resume: [Ataussamad Ansari Resume](https://drive.google.com/file/d/1Ob5hChthWgXRn82XSfEbys-_ZunM4k48/view?usp=drive_link)
+
+
